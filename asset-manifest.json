@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/obuobatest/static/css/main.956e2fa8.chunk.css",
-    "main.js": "/obuobatest/static/js/main.135ea1d0.chunk.js",
-    "main.js.map": "/obuobatest/static/js/main.135ea1d0.chunk.js.map",
+    "main.css": "/obuobatest/static/css/main.3e786b08.chunk.css",
+    "main.js": "/obuobatest/static/js/main.498d62d0.chunk.js",
+    "main.js.map": "/obuobatest/static/js/main.498d62d0.chunk.js.map",
     "runtime-main.js": "/obuobatest/static/js/runtime-main.b389257e.js",
     "runtime-main.js.map": "/obuobatest/static/js/runtime-main.b389257e.js.map",
     "static/js/2.fe64e5c1.chunk.js": "/obuobatest/static/js/2.fe64e5c1.chunk.js",
     "static/js/2.fe64e5c1.chunk.js.map": "/obuobatest/static/js/2.fe64e5c1.chunk.js.map",
     "index.html": "/obuobatest/index.html",
-    "static/css/main.956e2fa8.chunk.css.map": "/obuobatest/static/css/main.956e2fa8.chunk.css.map",
+    "static/css/main.3e786b08.chunk.css.map": "/obuobatest/static/css/main.3e786b08.chunk.css.map",
     "static/js/2.fe64e5c1.chunk.js.LICENSE.txt": "/obuobatest/static/js/2.fe64e5c1.chunk.js.LICENSE.txt",
     "static/media/bung.3ae3ff97.jpg": "/obuobatest/static/media/bung.3ae3ff97.jpg",
     "static/media/high.ad6f0545.jpg": "/obuobatest/static/media/high.ad6f0545.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b389257e.js",
     "static/js/2.fe64e5c1.chunk.js",
-    "static/css/main.956e2fa8.chunk.css",
-    "static/js/main.135ea1d0.chunk.js"
+    "static/css/main.3e786b08.chunk.css",
+    "static/js/main.498d62d0.chunk.js"
   ]
 }
