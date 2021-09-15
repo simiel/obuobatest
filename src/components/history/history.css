@@ -1,0 +1,24 @@
+.history{
+    padding: 40px 200px;
+    display: flex;
+    background-color: #262626;
+    color: white;
+}
+
+.historyItems{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.historyImg{
+    object-fit: cover;
+    width: 50%;
+    padding: 15px;
+}
+
+.historyText{
+    font-size: 16px;
+    line-height: 30px;
+    padding: 15px;
+}

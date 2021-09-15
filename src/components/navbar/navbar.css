@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.navLogo{
+    width: 200px;
+    height: 50px;
+}
+
+.navbarMenu{
+float: right;
+display: flex;
+justify-content: end;
+align-items: center;
+}
+
+.navbarMenuItem{
+    padding: 15px;
+    font-size: 13px;
+}

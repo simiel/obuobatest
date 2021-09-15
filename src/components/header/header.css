@@ -1,0 +1,21 @@
+.headerMain{
+    background-color: #2d2e32;
+    padding: 5px;
+}
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 0;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+    padding: 0 60px;
+    color: white;
+    line-height: 1;
+}
+
+
+.header1{
+    margin-right: 20px;
+}

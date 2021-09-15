@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgba(20, 98, 214, 0.534);
+}
+
+.footerTop{
+    display: flex;
+    justify-content: space-between;
+}
+
+.topItem{
+    width: 300px;
+}
+
+.footerBottom{
+    display: flex;
+    padding: 10px 15px;
+}
+
+.footerBottomLeft{
+    width: 50%;
+}
+
+.footerBottomRight{
+    display: flex;
+    margin-left: auto;
+    font-size: 20px;
+}
+
+.footerIcon{
+    margin-right: 15px;
+}
+
+.footerList{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0;
+    margin-bottom: 20px;
+}

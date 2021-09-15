@@ -1,0 +1,14 @@
+.review{
+    padding: 40px 25px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(20, 98, 214, 0.534);
+}
+
+.reviewImage{
+    border-radius: 50%;
+    width: 50px;
+}
