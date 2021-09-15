@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/simiel/obuobatest/static/css/main.87ad4cdc.chunk.css",
-    "main.js": "/simiel/obuobatest/static/js/main.88f7f2b2.chunk.js",
-    "main.js.map": "/simiel/obuobatest/static/js/main.88f7f2b2.chunk.js.map",
-    "runtime-main.js": "/simiel/obuobatest/static/js/runtime-main.0ad1b39b.js",
-    "runtime-main.js.map": "/simiel/obuobatest/static/js/runtime-main.0ad1b39b.js.map",
-    "static/js/2.fe64e5c1.chunk.js": "/simiel/obuobatest/static/js/2.fe64e5c1.chunk.js",
-    "static/js/2.fe64e5c1.chunk.js.map": "/simiel/obuobatest/static/js/2.fe64e5c1.chunk.js.map",
-    "index.html": "/simiel/obuobatest/index.html",
-    "static/css/main.87ad4cdc.chunk.css.map": "/simiel/obuobatest/static/css/main.87ad4cdc.chunk.css.map",
-    "static/js/2.fe64e5c1.chunk.js.LICENSE.txt": "/simiel/obuobatest/static/js/2.fe64e5c1.chunk.js.LICENSE.txt",
-    "static/media/bung.3ae3ff97.jpg": "/simiel/obuobatest/static/media/bung.3ae3ff97.jpg",
-    "static/media/high.ad6f0545.jpg": "/simiel/obuobatest/static/media/high.ad6f0545.jpg",
-    "static/media/jumper.63c72b65.png": "/simiel/obuobatest/static/media/jumper.63c72b65.png",
-    "static/media/splash.css": "/simiel/obuobatest/static/media/lg.a96edd3c.jpg",
-    "static/media/logo.689184e1.jpg": "/simiel/obuobatest/static/media/logo.689184e1.jpg"
+    "main.css": "/obuobatest/static/css/main.956e2fa8.chunk.css",
+    "main.js": "/obuobatest/static/js/main.88f7f2b2.chunk.js",
+    "main.js.map": "/obuobatest/static/js/main.88f7f2b2.chunk.js.map",
+    "runtime-main.js": "/obuobatest/static/js/runtime-main.b389257e.js",
+    "runtime-main.js.map": "/obuobatest/static/js/runtime-main.b389257e.js.map",
+    "static/js/2.fe64e5c1.chunk.js": "/obuobatest/static/js/2.fe64e5c1.chunk.js",
+    "static/js/2.fe64e5c1.chunk.js.map": "/obuobatest/static/js/2.fe64e5c1.chunk.js.map",
+    "index.html": "/obuobatest/index.html",
+    "static/css/main.956e2fa8.chunk.css.map": "/obuobatest/static/css/main.956e2fa8.chunk.css.map",
+    "static/js/2.fe64e5c1.chunk.js.LICENSE.txt": "/obuobatest/static/js/2.fe64e5c1.chunk.js.LICENSE.txt",
+    "static/media/bung.3ae3ff97.jpg": "/obuobatest/static/media/bung.3ae3ff97.jpg",
+    "static/media/high.ad6f0545.jpg": "/obuobatest/static/media/high.ad6f0545.jpg",
+    "static/media/jumper.63c72b65.png": "/obuobatest/static/media/jumper.63c72b65.png",
+    "static/media/splash.css": "/obuobatest/static/media/lg.a96edd3c.jpg",
+    "static/media/logo.689184e1.jpg": "/obuobatest/static/media/logo.689184e1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ad1b39b.js",
+    "static/js/runtime-main.b389257e.js",
     "static/js/2.fe64e5c1.chunk.js",
-    "static/css/main.87ad4cdc.chunk.css",
+    "static/css/main.956e2fa8.chunk.css",
     "static/js/main.88f7f2b2.chunk.js"
   ]
 }
